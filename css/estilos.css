@@ -1,39 +1,50 @@
-#body
+body 
 {
-    color: rgb(126, 134, 247);
-    text-align: left;
-    font-family: sans-serif;
+    background: rgb(0, 0, 0);
+    color: #33a;
+    text-align: center;
+    font-family: Helvetica;
     font-size: 16px;
-}
-
-#cabecera
-{
-    background: rgb(25, 25, 27);
-    box-shadow: 0px 15px 30px 0px rgba(0,0,0,0.5);
-    color: rgb(0, 13, 255);
-    font-weight: bold;
-    font-family: 'Geneva';
     margin: 0;
-    padding: 0.5em;
+    padding: 0;
+}
+
+#cabecera 
+{
+    background: rgb(39, 114, 200);
+    box-shadow: 0px 15px 30px 0px rgba(0, 238, 255, 0.5);
+    color: rgb(255, 255, 255);
+    font-weight: 'Times New Roman';
+    margin: 5;
+    padding: 0.5em 0 0.5em 2em;
+
 
 }
 
-#cabecera #tagline
+#cabecera #logo
 {
-    color: rgb(65, 188, 255);
+    width: 120px;
+    vertical-align: initial;
+}
+
+#cabecera #tagline 
+{
+
+    color: rgb(255, 255, 255);
     padding: 0 0 0 1em;
-    font-size: normal;
-    font-size: 0.8em;
+    font-size: 1em;
+    font-family: 'Times New Roman';
 }
 
 
 #container 
 {
+    color: rgb(255, 255, 255);
     width: 70%;
     padding: 0;
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Times New Roman';
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid #00ddff;
     margin: 0 auto;
 
 }
@@ -41,11 +52,13 @@
 #containerh1 
 {
     font-size: 20px;
-    font-family: 'Franklin Gothic Medium';
 
 }
 
-#post
+#post 
 {
+
+    color: rgb(225, 255, 0);
+    background-color: azure;
     padding: 1em;
 }
