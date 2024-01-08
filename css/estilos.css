@@ -46,3 +46,13 @@ body
 {
     padding: 1em;
 }
+
+#footer 
+{
+    width: 900%;
+    padding: 0;
+    text-align: center;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+
+}
