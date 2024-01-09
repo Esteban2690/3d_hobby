@@ -28,7 +28,7 @@ body
 
 
 #container 
-#{
+{
  
     width: 70%;
     padding: 0;
@@ -38,19 +38,19 @@ body
 }
 
 #containerh1 
-#{
+{
     font-size: 20px;
 }
 
 #post 
-#{
+{
 
     color: rgb(225, 255, 0);
     background-color: azure;
 }
 
 #container_footer 
-#{
+{
     font-family: Impact;
     font-size: 30px;
     width: 67%;
@@ -61,7 +61,7 @@ body
 }
 
 #container_contactanos_h4 
-#{
+{
     font-family: Impact;
     font-size: 30px;
     width: 67%;
