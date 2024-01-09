@@ -1,24 +1,12 @@
-<<<<<<< HEAD
-body 
-{
-
-    background: rgb(72, 67, 67);
-    color: rgb(248, 243, 243);
-=======
 body
 {
     background: rgb(74, 74, 74);
     color: rgb(0, 0, 0);
->>>>>>> baac10210085360fce461911a95a983e43cc28a5
     text-align: left;
     font-family: sans-serif;
     font-size: 16px;
 }
 
-<<<<<<< HEAD
-
-=======
->>>>>>> baac10210085360fce461911a95a983e43cc28a5
 #cabecera
 {
     background: rgb(25, 25, 27);
@@ -30,22 +18,9 @@ body
 
 }
 
-<<<<<<< HEAD
-
 #cabecera #tagline
 {
     color: rgb(0, 225, 255);
-
-}
-#cabecera #logo 
-{
-    width: 120px;
-    vertical-align: initial;
-=======
-#cabecera #tagline
-{
-    color: rgb(0, 225, 255);
->>>>>>> baac10210085360fce461911a95a983e43cc28a5
     padding: 0 0 0 1em;
     font-size: normal;
     font-size: 0.8em;
@@ -53,21 +28,12 @@ body
 
 
 #container 
-<<<<<<< HEAD
-{
-    color: rgb(255, 0, 0);
-=======
 #{
  
->>>>>>> baac10210085360fce461911a95a983e43cc28a5
     width: 70%;
     padding: 0;
     text-align: left;
-<<<<<<< HEAD
-    border: 4px solid #000000;
-=======
     border: 4px solid #0055ff;
->>>>>>> baac10210085360fce461911a95a983e43cc28a5
     margin: 0 auto;
 }
 
@@ -77,22 +43,14 @@ body
 }
 
 #post 
-<<<<<<< HEAD
-{
-=======
 #{
->>>>>>> baac10210085360fce461911a95a983e43cc28a5
 
     color: rgb(225, 255, 0);
     background-color: azure;
 }
 
 #container_footer 
-<<<<<<< HEAD
-{
-=======
 #{
->>>>>>> baac10210085360fce461911a95a983e43cc28a5
     font-family: Impact;
     font-size: 30px;
     width: 67%;
@@ -103,11 +61,7 @@ body
 }
 
 #container_contactanos_h4 
-<<<<<<< HEAD
-{
-=======
 #{
->>>>>>> baac10210085360fce461911a95a983e43cc28a5
     font-family: Impact;
     font-size: 30px;
     width: 67%;
@@ -115,8 +69,4 @@ body
     text-align: center;
     border: 4px solid #0a959c;
     margin: 4px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> baac10210085360fce461911a95a983e43cc28a5
