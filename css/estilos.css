@@ -1,4 +1,4 @@
-body {
+#body {
 
     background: rgb(72, 67, 67);
     color: rgb(248, 243, 243);
@@ -7,7 +7,8 @@ body {
     font-size: 16px;
 }
 
-#cabecera {
+#cabecera 
+#{
     
     background: rgb(129, 129, 229);
     box-shadow: 0px 15px 30px 0px rgba(75, 119, 131, 0.5);
@@ -17,12 +18,14 @@ body {
     padding: 0.5em;
 }
 
-#cabecera #logo {
+#cabecera #logo 
+#{
     width: 120px;
     vertical-align: initial;
 }
 
-#cabecera #tagline {
+#cabecera #tagline 
+#{
 
     color: rgb(255, 255, 255);
     padding: 0 0 0 1em;
@@ -31,7 +34,8 @@ body {
 }
 
 
-#container {
+#container 
+#{
     color: rgb(255, 0, 0);
     width: 70%;
     padding: 0;
@@ -42,18 +46,20 @@ body {
 }
 
 #containerh1 
-{
+#{
     font-size: 20px;
 }
 
-#post {
+#post 
+#{
 
     color: rgb(225, 255, 0);
     background-color: azure;
     padding: 1em;
 }
 
-#container_footer {
+#container_footer 
+#{
     font-family: Impact;
     font-size: 30px;
     width: 67%;
@@ -63,7 +69,8 @@ body {
     margin: 4px;
 }
 
-#container_contactanos_h4 {
+#container_contactanos_h4 
+#{
     font-family: Impact;
     font-size: 30px;
     width: 67%;
