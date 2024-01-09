@@ -1,22 +1,20 @@
 body {
 
-    background: rgb(74, 74, 74);
-    color: rgb(0, 0, 0);
+    background: rgb(72, 67, 67);
+    color: rgb(248, 243, 243);
     text-align: left;
     font-family: sans-serif;
     font-size: 16px;
-    margin: 0;
-    padding: 0;
 }
 
 #cabecera {
-    background: rgb(39, 114, 200);
-    box-shadow: 0px 15px 30px 0px rgba(0, 238, 255, 0.5);
-    color: rgb(255, 255, 255);
-    font-weight: 'Times New Roman';
-    margin: 5;
-    padding: 0.5em 0 0.5em 2em;
-
+    
+    background: rgb(129, 129, 229);
+    box-shadow: 0px 15px 30px 0px rgba(75, 119, 131, 0.5);
+    color: rgb(0, 255, 13);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
 
 #cabecera #logo {
@@ -28,17 +26,19 @@ body {
 
     color: rgb(255, 255, 255);
     padding: 0 0 0 1em;
-    font-size: 1em;
-    font-family: 'Times New Roman';
+    font-size: normal;
+    font-size: 0.8em;
 }
 
 
 #container {
-    color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
     width: 70%;
     padding: 0;
     font-family: 'Times New Roman';
     text-align: left;
+    border: 4px solid #000000;
+    margin: 0 auto;
 }
 
 #containerh1 
@@ -62,3 +62,22 @@ body {
     border: 4px solid #0a959c;
     margin: 4px;
 }
+
+#container_contactanos_h4 {
+    font-family: Impact;
+    font-size: 30px;
+    width: 67%;
+    padding: 10;
+    text-align: center;
+    border: 4px solid #0a959c;
+    margin: 4px;
+}
+
+
+
+
+
+
+
+
+
